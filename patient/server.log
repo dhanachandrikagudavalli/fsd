@@ -1,0 +1,5 @@
+2026-10-07T05:11:29.245Z | POST /api/v1/patients | 201 | 4ms
+2026-10-07T05:11:50.219Z | GET /api/v1/patients | 200 | 4ms
+2026-10-07T05:12:07.993Z | GET /api/v1/patients?word=John | 200 | 1ms
+2026-10-07T05:12:22.096Z | PUT /api/v1/patients/1 | 200 | 2ms
+2026-10-07T05:12:34.415Z | DELETE /api/v1/patients/1 | 200 | 2ms
